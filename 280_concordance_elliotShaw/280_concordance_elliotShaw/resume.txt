@@ -1,0 +1,10 @@
+Elliot J. Shaw 1114 N. Co st. Gunnison CO, 81231 · (970) 531 0405 · elliot.shaw@western.edu 
+ 
+Education Spring 2021 Will graduate with degrees in Mathematics and Computer Science at Western Colorado University  3.71 current GPA. Ski for cross country ski team and run for trail running team 2017   Middle Park High School, Granby CO Graduated as Valedictorian (1st in class), with 17 varsity sports letters in soccer, football, skiing, and track and field 
+ 
+Work/Volunteer Experience 2017-2019  Ski Instructor for Winter Park Resort Instruct kids and adults in skiing handling risk management and using group skills to create a fun experience for clients 2014-2017  Interact Club (Youth Rotary) at Middle Park HS Club President 2016-2017, club Treasurer 2015-2016; the club organized and ran community events and fundraisers 2016-2019  Privatized Lumberjack On a crew contracted to clear trees and clean up land on private property 2013-2019  Building a House and Landscaping    Intermittently help my dad building a new house and maintaining the property 
+ 
+Computer Science Specifics These are some self-motivated projects and my working understandings of CS    Languages   -- Best in C++ and Python. Some basic SQL experience. Brick Breaker -- Made the front end and back end of the game Brick Breaker. Made  the game with a scoring system, user login and database, high scores displayed on login, etc. Got a basic understanding of server-client relationship with Python and SQL. Minesweeper -- Built this game as a challenge to figure out the logic. 
+ 
+ 
+I am looking to get into a career in the tech industry where I can continue to learn and problem solve. I hope my education and experiences listed above demonstrate my constant self-motivation towards hard work as well as a decent set of technical and group leadership skills that would serve well in the industry. 

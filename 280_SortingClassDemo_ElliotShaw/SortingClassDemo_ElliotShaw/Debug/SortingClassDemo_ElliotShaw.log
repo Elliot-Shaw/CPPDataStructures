@@ -1,0 +1,3 @@
+﻿  SortingClassDemo_ElliotShaw.cpp
+C:\Users\Elliot\Desktop\WesternS4\CS Data Structures\SortingClassDemo_ElliotShaw\SortingClassDemo_ElliotShaw\SortingClassDemo_ElliotShaw.cpp(181,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingClassDemo_ElliotShaw.vcxproj -> C:\Users\Elliot\Desktop\WesternS4\CS Data Structures\SortingClassDemo_ElliotShaw\Debug\SortingClassDemo_ElliotShaw.exe
